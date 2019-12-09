@@ -1,4 +1,4 @@
-package urijudge;
+package br.com.urijudge;
 import java.util.Scanner;
 
 public class Uri_1001 {
